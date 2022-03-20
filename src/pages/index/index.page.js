@@ -51,7 +51,7 @@ const Dashboard = (props) => {
 
   return (
     <div className="Dashboard-section">
-      <DefaultLayout />
+      {/* <DefaultLayout /> */}
       <main className="dashboard-right-content">
         <div className="">
           <Header user={user} />

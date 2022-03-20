@@ -1,7 +1,7 @@
 import jsCookie from "js-cookie";
 import { useEffect, useState } from "react";
 import { Route, Routes } from "react-router-dom";
-import "./app.css";
+// import "./app.css";
 import $api from "./helpers/api";
 import PageNotFound from "./pages/404/404.page";
 import Dashboard from "./pages/index/index.page";
