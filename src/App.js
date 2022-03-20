@@ -7,6 +7,7 @@ import PageNotFound from "./pages/404/404.page";
 import Dashboard from "./pages/index/index.page";
 import MarketerPage from "./pages/index/_id/marketer.page";
 import LoginPage from "./pages/login/login.page";
+import Sidebar from "./components/Sidebar/Sidebar";
 
 function App() {
   const [user, setUser] = useState(null);
